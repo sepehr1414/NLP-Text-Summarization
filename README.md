@@ -50,20 +50,8 @@ To run this project, follow these steps:
 
 Note: On the first run, the script may download necessary NLTK data. Ensure you have an active internet connection for this step.
 
-## Customization
-
-You can customize the project by modifying the `config.py` file:
-
-- Change the `input_text` and `style_text` variables to summarize different texts.
-- Adjust the `context_window_limit` to change the maximum length of the final summary.
-
 ## Requirements
 
 - Python 3.x
 - NLTK library
 
-## Future Improvements
-
-- Implement more advanced summarization techniques
-- Add support for multiple languages
-- Create a user interface for easier interaction with the summarization system
